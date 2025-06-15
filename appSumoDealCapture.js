@@ -1,4 +1,4 @@
-const SELECTORS = {
+update const SELECTORS = {
   // Used in findDealElements and MutationObserver to identify overall deal containers/elements
   dealIdentifier: '.appsumo-product-title-selector, .appsumo-deal-card-selector', // Placeholder from pseudocode
   // Used in extractDealData to find the title text within a dealElement
