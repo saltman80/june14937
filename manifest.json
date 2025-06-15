@@ -1,4 +1,4 @@
-{
+update {
   "manifest_version": 3,
   "name": "SumoSignal: Expiry & Restock Alerter",
   "version": "1.0.0",
