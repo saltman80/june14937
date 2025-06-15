@@ -1,4 +1,4 @@
-const EXPIRY_ALARM_NAME = 'expiryCheckAlarm';
+update const EXPIRY_ALARM_NAME = 'expiryCheckAlarm';
 const RESTOCK_ALARM_NAME = 'restockCheckAlarm';
 
 // Initialize services
